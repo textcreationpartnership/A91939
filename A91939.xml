@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To His Highnesse Lord Generall Cromwell, Lord Protector, &amp;c. The humble cautionary proposals of John Rogers, minister of the gospel according to the dispensation of the spirit (now) at Thomas Apostles London.</title>
+            <author>Rogers, John, 1627-1665?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91939</idno>
+            <idno type="STC">Wing R1817</idno>
+            <idno type="STC">Thomason 669.f.17[71]</idno>
+            <idno type="STC">ESTC R211780</idno>
+            <idno type="EEBO-CITATION">99870479</idno>
+            <idno type="PROQUEST">99870479</idno>
+            <idno type="VID">163319</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163319)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f17[71])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To His Highnesse Lord Generall Cromwell, Lord Protector, &amp;c. The humble cautionary proposals of John Rogers, minister of the gospel according to the dispensation of the spirit (now) at Thomas Apostles London.</title>
+                  <author>Rogers, John, 1627-1665?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Dated at end: From my Study, the 21 day of [Hebrew characters] Tebeth, or the Tenth Month.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Religion and politics --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163319:1" rendition="simple:additions"/>
+            <head>To His Highneſſe Lord General <hi>Cromwel,</hi> Lord <hi>Protector,</hi> &amp;c. <hi>The humble</hi> Cautionary Propoſals <hi>of</hi> John Rogers, <hi>Miniſter of the</hi> Goſpel <hi>according to the</hi> Diſpenſation <hi>of the</hi> Spirit <hi>(now) at</hi> Thomas Apoſtles London.</head>
+            <opener>
+               <salute>MY LORD;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is the great <hi>Iehovah Niſsi,</hi> or <hi>Lord Protector</hi> of his <hi>People,</hi> who hath <hi>awakened</hi> me morning by morning (who would not let me reſt day nor night ſince you were Proclaimed Lord <hi>Protector)</hi> untill his <hi>Spirit</hi> had ſet me upon my <hi>Feet</hi> in theſe following <hi>Propoſals,</hi> with <hi>Cautions.</hi> Now, although I have no Incouragement from <hi>Man,</hi> and little <hi>hopes</hi> to be <hi>heard,</hi> who am ſo <hi>contemptible,</hi> and unfit for ſuch a <hi>Meſſage; Yet ſay not</hi> (ſaith the Lord) <hi>I am a Childe, for thou ſhalt ſpeak what I command thee, and be not afraid of their Faces, for I will deliver thee.</hi> Now becauſe none elſe is <hi>up</hi> on this <hi>Errand</hi> (which is ſo eminently for <hi>Chriſt,</hi> and his <hi>Intereſt)</hi> and ſo many are <hi>up</hi> and jocund (already) for the intereſt of <hi>Antichriſt;</hi> Therefore I can finde no <hi>truce,</hi> nor <hi>peace</hi> within me till I <hi>become obedient to the Lord God, which hath opened mine ear, and I will not rebel; Therefore have I ſet my face like a flint, for I know that I ſhall not be aſhamed.</hi>
+            </p>
+            <p n="1">I. <hi>Propoſal,</hi> Take heed of <hi>Protecting</hi> the <hi>Plantations</hi> of <hi>Antichriſt,</hi> or the <hi>Towers of Babylon,</hi> which muſt fall (and with fury too) upon the <hi>Heads</hi> of their Protectors, as <hi>Iſa.</hi> 31. 3. <hi>When the Lord ſhall ſtretch out his hand, both he that helpeth</hi> (or is their <hi>Protector) and he that is holpen ſhall fall with him;</hi> To which purpoſe, is <hi>Pſal.</hi> 146. 3. <hi>Truſt not in</hi> (ſuch) <hi>Princes in whom is no help,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or who are not able to <hi>Protect</hi> themſelves or others in the <hi>Day</hi> of the <hi>Lords Controverſie</hi> againſt <hi>Babylon;</hi> Therefore (My Lord) be ſet for the <hi>Defence of the Goſpel,</hi> and <hi>incourage</hi> all you can the <hi>building</hi> up of <hi>Sion,</hi> and her <hi>Bulwarks,</hi> for <hi>in the midſt of her, God will be a Refuge;</hi> And <hi>upon all her Glory he will be a Defence.</hi>
+            </p>
+            <p n="2">II. <hi>Prop.</hi> Take heed of being guided or governed with the <hi>Old-State Principles,</hi> of <hi>Carnal Policie;</hi> for <hi>Antichriſt</hi> works (now) more in <hi>a myſtery of Iniquity</hi> then ever. And what the <hi>Beaſt</hi> could not do with his <hi>Horns</hi> here in <hi>England</hi> (by cruel <hi>puſhing)</hi> which we <hi>hope</hi> are <hi>off,</hi> yet he hopes to do it with his <hi>Heads</hi> (by cunning <hi>plotting)</hi> which we <hi>fear</hi> are <hi>on.</hi> This <hi>Principle</hi> of <hi>Policie</hi> was fatall to <hi>Jehu; Achitophels</hi> Counſel came to nothing: And <hi>Antiochus</hi> could not protect himſelfe; although ſayes <hi>Daniel,</hi> 8. 25. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>He ſhall make his Deſign to proſper by his policie, and magnifie himſelf; and although</hi> (by his Policie) <hi>he ſhall ſtand up againſt the Prince of Princes,</hi> (viz. <hi>Chriſt,</hi> the <hi>Head</hi> of all <hi>Principalities</hi> and <hi>Powers,</hi> Col. 2. 10.) <hi>yet he ſhall be broken</hi> (or deſtroyed miſerably) <hi>without hands<g ref="char:punc">▪</g>
+               </hi> So <hi>Iſa.</hi> 17. 1. <hi>In that day Jehovah with his ſore, and great and long ſword will puniſh Leviathan</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>the piercing Serpent</hi> (Beriach i. e. in his <hi>Power) yea that crooked Serpent (Akal</hi> i. e in h<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Policie,</hi> which is moſt dangerous.) An enemy to Chriſt (2 <hi>Cor.</hi> 11. 3,) A <hi>friend</hi> in truſt for <hi>Antichriſt,</hi> and an evident <hi>Fore-runner</hi> of <hi>Ruine</hi> to them that are <hi>ruled</hi> thereby). Wherefore (My Lord) ſet up <hi>Principles of Piety, with</hi> Ezra 7. 25, <hi>And thou after the wiſdome of thy God ſet up Magiſtrates and Iudges which may judge all the people, &amp;c.</hi> O Proclaime! Proclaime <hi>Chriſt</hi> alone the <hi>Head</hi> of your <hi>Wiſdome,</hi> to whom the Lord <hi>hath given all power in heaven and earth.</hi> Conſult with his word, <hi>Pſal.</hi> 119. 24. leſt you ſhould be laid aſide as not <hi>fit</hi> for his <hi>Work</hi> (which will make our <hi>ſouls</hi> mourne.) <hi>Luther</hi> was wont to ſay three things would be the <hi>Ruine</hi> of <hi>Religion,</hi> viz. <hi>Unthankfulneſſe</hi> (to God) <hi>Security,</hi> and <hi>Carnal Pol<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cie,</hi> and the <hi>laſt</hi> he feared moſt.</p>
+            <p n="3">III. <hi>Prop.</hi> Take heed of <hi>Carnal Councellors</hi> (I mean ſuch men as ſeek themſelves more then <hi>Chriſt) Darius,</hi> had ſuch <hi>Counſellors</hi> who <hi>flattered</hi> him to his face, <hi>Dan</hi> 6. 6, 7. &amp;c. but they were <hi>enemies</hi> to <hi>Daniel</hi> the <hi>true Prophet</hi> (who had an <hi>Excellent Spirit)</hi> and therefore (in hatred to him) they perſwaded <hi>Darius</hi> to ſigne the <hi>Decree,</hi> who did it Accordingly, and ſet up <hi>Idolatry</hi> (by their <hi>Malignant Councel)</hi> but could not for all that hinder <hi>Daniels Spirit</hi> of <hi>Prayer.</hi> Thus the <hi>Rulers</hi> complying with the Carnal Councel of the <hi>Chi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe Prieſts</hi> crucified <hi>Chriſt</hi> in the <hi>Fleſh,</hi> perſecuted his <hi>Apoſtles</hi> and <hi>Diſciples</hi> af<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er him. This will be the <hi>fruit</hi> of ſuch <hi>Counſels</hi> and <hi>Counſellors.</hi> Therefore (My Lord) let them give you <hi>Counſel</hi> that are converſant with the <hi>Secrets</hi> of God, and the <hi>Viſions</hi> of theſe dayes. <hi>Belſhazzar</hi> did ſend for <hi>Daniel</hi> to open the <hi>Viſion</hi> to him that <hi>concerned</hi> him: So when you finde <hi>(My Lord)</hi> all the <hi>Wiſe men</hi> (of the <hi>world)</hi> to faile you in the <hi>Viſions</hi> of theſe <hi>times</hi> and <hi>ſeaſons</hi> (by their liberal <hi>Arts</hi> and <hi>Sciences, Phyloſophical Notions,</hi> or <hi>Rules)</hi> then ſend for the <hi>Daniels</hi> (of an <hi>Excellent Spirit)</hi> to confer with upon the <hi>Propheſies,</hi> ſuch as have their <hi>Wiſdome</hi> and underſtanding by the <hi>Spirit of God;</hi> For if the falſe Prophets may prevail with you, no <hi>Daniels</hi> (by their good wills) ſhall be left alive, but all be throwne into the <hi>Den</hi> (ere long) through their <hi>ſubtilty.</hi> Beſides <hi>(My Lord)</hi> it concerns you (you will finde one day) to have a <hi>high eſteem</hi> of thoſe moſt <hi>Honourable Members</hi> of the laſt Parliament that proved faithful to Chriſt againſt Antichriſt, and his cauſe.</p>
+            <p n="4">IV. <hi>Prop.</hi> Take heed of medling with the <hi>Protection</hi> of <hi>mens</hi> Carnal, Cruel, Heatheniſh lawes, <hi>guilty</hi> of <hi>Tyranny,</hi> Oppreſſion, <hi>Perjury,</hi> Cheating, <hi>Injuſtice,</hi> Perſecution, and much <hi>innocent blood,</hi> and moft of them contrary to the <hi>Laws</hi> of God, whoſe Laws are to be reſtored, and made <hi>Republick</hi> Laws in theſe latter dayes, as <hi>Iſa.</hi> 42. 21, 22. <hi>For his righteouſ eſſe ſake he will magnifie the Law, and make it</hi> HONOURABLE. His are the <hi>beſt</hi> in all caſes that ever were made, which muſt be <hi>known</hi> to all <hi>Deut.</hi> 30. 10, to 16. <hi>Job.</hi> 7. 49, then Juſtice will be eaſily had, and Judges ſit in every <hi>City-gate,</hi> 2 <hi>Chron.</hi> 19. 5. <hi>Deut.</hi> 16. 18. without reſpect of perſons, and which none dare <hi>gain-ſay, Heb.</hi> 10. 28. <hi>Rom.</hi> 2, 2. <hi>Deut.</hi> 1. 17. <hi>Lev.</hi> 14 22. 1. <hi>Sam.</hi> 12. 3. <hi>Lev.</hi> 29. 15. Yea, then will <hi>Judges</hi> be as at <hi>firſt,</hi> and the Lord our <hi>Lawgiver, Jam.</hi> 4 13. <hi>Iſa.</hi> 1. 26. and this <hi>Law</hi> (or Body of Law which is <hi>Gods</hi> will <hi>abide</hi> for ever: Therefore <hi>(My Lord)</hi> about the <hi>Lords Laws,</hi> above the <hi>Lands Laws,</hi> the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Mizuoth de ora ita,</hi> or rather the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Torah Shebicthab,</hi> and not of the Carnal <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Minhagbim, Cuſtomes, peeviſh Luſts,</hi> or <hi>partial laws</hi> of men. Away! away! with our <hi>Egyptian</hi> (Norman) Laws (now) and with good <hi>Joſiah,</hi> 2 <hi>King.</hi> 22. 12, 13. <hi>having found the Book of Gods Laws, let that be Read and Reſtored;</hi> And as <hi>Ezra</hi> 7. 25. to judge <hi>ſuch as know the Laws of our God, and teach thou them that do not. Mal.</hi> 4 4<g ref="char:punc">▪</g> 
+               <hi>Remember the</hi> LAW <hi>of</hi> MOSES <hi>my Servant, which I commanded</hi> (for the Commonwealth) <hi>with the</hi> STATUTES <hi>and the</hi> JUDGE<g ref="char:EOLhyphen"/>MENTS, which if you do not, the <hi>Lamentation</hi> in <hi>Dan.</hi> 9. 11. will be ours. O! all (England) <hi>have ſinned in wanting</hi> (the word is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or being without) <hi>thy Laws, O Lord!</hi> And <hi>therefore the curſe is poured upon us! and the oath written in the Law of Moſes the ſervant of the Lord, Lev.</hi> 26. 14, 15, 16. &amp;c. <hi>Dent.</hi> 28. 15, 16, &amp;c.</p>
+            <p n="5">V. <hi>Prop.</hi> Take heed of <hi>Protecting</hi> the <hi>Carnal, National Antichriſtian Clergy</hi> (though they <hi>come</hi> in the name of <hi>Orthodox</hi> or <hi>Learned,</hi> for ſo did the <hi>Scribes</hi> and <hi>Phariſees.) Zedekiah's</hi> indulgence to the <hi>Prieſts</hi> and falſe <hi>Prophets</hi> of the <hi>Nation,</hi> imboldned <hi>Hananiah</hi> in his <hi>lies, Iere.</hi> 28. 1, <hi>&amp;c.</hi> Which <hi>(Zedekiah</hi> believing) perſecuted the true <hi>Prophets,</hi> and brought <hi>dreadful deſtruction</hi> upon his <hi>own head.</hi> So <hi>Ahab</hi> (a notable <hi>Politician)</hi> did <hi>protect</hi> his <hi>National Clergy,</hi> or <hi>Prophets</hi> (who were his, not the <hi>Lords,</hi> 2 <hi>Chro.</hi> 18. 5.) and by their ſuggeſtion, <hi>hated</hi> and <hi>perſecuted</hi> the <hi>true Prophet Micaiah,</hi> which proved his <hi>ruine.</hi> Thus the <hi>Rulers</hi> that were led by the <hi>Priests,</hi> proved <hi>Tyrants</hi> to the true <hi>Mini<g ref="char:EOLhyphen"/>ſters</hi> of the <hi>New Testament, Acts</hi> 4. 16, 17. And whiles they would defend them, they deſtroyed themſelves. Thus the <hi>worldly Clergy</hi> do ever flie to <hi>worldly Powers</hi> for <hi>Pro<g ref="char:EOLhyphen"/>tection</hi> (having none from God,) and for this <hi>end</hi> it is, they <hi>flatter</hi> great men, to engage them to their <hi>Ruine;</hi> ſo do <hi>Antichriſts,</hi> now they are near <hi>falling,</hi> and (without the <hi>Lord</hi> hear <hi>prayers</hi> for you, and deliver you from this fearful <hi>danger)</hi> they will <hi>inſnare</hi> you, and caſt you a ſleep with their <hi>inchantments,</hi> and render you unfit to follow <hi>Chriſt</hi> any further, but (under the <hi>name</hi> of the <hi>Miniſtry)</hi> moſt miſerably <hi>intangle</hi> and ſubtilly <hi>ſeduce</hi> you into <hi>Antichriſts cauſe:</hi> Which if they do, will be your utter <hi>Ruine,</hi> as <hi>Revel.</hi> 4. 9, 10. <hi>If any worſhip the Beast, or his Image, and receive his mark in his Fore-head, or in his Head, or in his Hand, the ſame ſhall drink of the Wine of the Wrath of God, &amp;c.</hi> Revel. 19. 20. <hi>And the Beaſt was taken, and with him the falſe Prophets, with whom he deceived them that received the Mark of the Beaſt, and them that worſhipped the Beaſt; theſe were caſt alive into a lake burning with brimſtone.</hi> Therefore <hi>(my Lord)</hi> if a word from <hi>Iehovah</hi> on high, may (as yet) be <hi>received,</hi> look about you! and before you! with an <hi>ocule irretorto!</hi> Make haſte, <hi>my Lord,</hi> for <hi>Chriſts Protection!</hi> againſt the <hi>Plagues</hi> that are (as ſure as <hi>God</hi> is <hi>Righteous)</hi> coming upon <hi>Babylon,</hi> and all that will <hi>cleave</hi> to her <hi>intereſt. Lu<g ref="char:EOLhyphen"/>ther</hi> was not too bold (in the <hi>name</hi> of the <hi>Lord)</hi> to tell his <hi>Lord Protector,</hi> the <hi>Elector</hi> of <hi>Saxony, Judico celeitud. veſt. plus à me praeſidii &amp; tutelae habituram eſſe quam mihi praeſtare: Huic cauſae nullus gladius conſul<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re aut opem ferre poteſt, &amp;c. That by his Prayers he had gained him more ſafety and protection, then he had received from him; and that the cauſe of Chriſt needed not his Protection, but he needed that's Protection. The power of man</hi> (indeed) <hi>protects Antichriſts cauſe, but it is the power of God</hi> (ſet a work by <hi>Faith</hi> and <hi>Prayer) that protects Chriſts.</hi> And <hi>Sive id credat.</hi> C. V. <hi>Sive non credat,</hi> (ſays he) <hi>Whether you will believe it, or no, yet this Way I will undertake to ſecure and protect your Highneſſes Soul, Body, Eſtate, and all, (viz.</hi> By Faith and Prayer) <hi>if you ingage freely in the cauſe of Chriſt againſt Antichriſt.</hi> So ſay I <hi>(my Lord)</hi> in that <hi>Name</hi> which ſent me (which fills me with <hi>courage</hi> and <hi>confidence)</hi> that if you will freely oblige for <hi>Chriſt</hi> and his <hi>Intereſt,</hi> the <hi>Faith</hi> and <hi>Prayers</hi> of the <hi>Saints</hi> (which were never <hi>higher</hi> then now) ſhall <hi>protect</hi> you ſufficiently in all <hi>emergencies;</hi> but if you will <hi>ingage</hi> for <hi>Antichriſt</hi> and his <hi>Intereſt,</hi> the <hi>loud</hi> crying <hi>Faith,</hi> and <hi>inceſſant high-spirited Prayers</hi> of the <hi>Saints,</hi> will all <hi>ingage</hi> againſt you, and never give <hi>Jehovah-Niſſi,</hi> the <hi>Lord our Protector</hi> reſt, till the <hi>excellency</hi> of <hi>Jacob</hi> have prevailed, 2 <hi>Chron.</hi> 19. 6. <hi>Take heed what you do!</hi>
+            </p>
+            <p>Thus the <hi>Lord</hi> hath ſtirred me up by an <hi>irreſiſtable</hi> and <hi>reſtleſs power</hi> (once more) to lay his <hi>work</hi> before you; for that he hath uſed you as a moſt <hi>glorious Inſtrument</hi> in the Three Nations (by the <hi>Faith</hi> and <hi>Prayers</hi> of his people) to make way for this <hi>work;</hi> which if you <hi>reject,</hi> will <hi>reject</hi> you, and be the infallible forerunner of your <hi>fall:</hi> Which that God may prevent, is the <hi>fervent prayers</hi> of the <hi>faithful people</hi> night and day, whoſe ſouls mourn in ſecret for you, whoſe hearts ake and bleed abundantly on your behalf; as for a man (moſt dear in their ſouls<g ref="char:punc">▪</g> but) under moſt deſperate <hi>temptations</hi> and <hi>dangers.</hi>
+            </p>
+            <p>I have freely expoſed my ſelf (in this my <hi>Maſters</hi> ſervice) by whoſe <hi>ſpirit</hi> I am (I hope) full of <hi>power</hi> to all the <hi>ſharp cenſures, reproaches, revilings,</hi> and <hi>hard meaſures</hi> that I can meet with, from <hi>Men</hi> or <hi>Devils,</hi> chuſing rather to have my <hi>peace</hi> within <hi>me,</hi> then without <hi>me,</hi> and to ſuffer with his afflicted <hi>Saints,</hi> then to ſin with the World. <hi>Ruere cum Chriſto quam regnare cum Caeſare:</hi> It may be <hi>men</hi> will judge me <hi>proud</hi> or <hi>ſelf-ſeeking,</hi> as they thought of <hi>Luther,</hi> if ſo, I ſay alſo, <hi>Inveniar ſanè ſuperbus, &amp;c. Modo impii ſilentii non arguar, dum Chriſtus patitur.</hi> Be it ſo, yet I had rather <hi>men</hi> think ſo, then I ſit ſilent, whileſt <hi>Chriſt</hi> ſuffers: Yea, <hi>Prorſus Satan eſt</hi> Lutherus <hi>dum Chriſtin vivit &amp; regnat, Amen.</hi> Though I be accounted a <hi>Devil,</hi> or any thing, I care not (be it ſo) ſo <hi>Chriſt</hi> may but reign. But, in theſe <hi>Propoſals,</hi> I am ſure, I have kept my <hi>ſphere,</hi> and followed the ſtrong im<g ref="char:EOLhyphen"/>pulſe of Gods own <hi>Spirit</hi> in me, and <hi>many</hi> others; however it be taken. Wherefore the great God <hi>awake</hi> you to his <hi>work!</hi> elſe the time will come when God will ſay, <hi>Let him alone; he is joyned to Idols, Hoſ.</hi> 4. 17.</p>
+            <p>Now that the <hi>Hand</hi> of the <hi>Lord</hi> may be with you, ſee what theſe <hi>five fingers</hi> point at, to you; which if you practiſe, will be able to <hi>protect</hi> you, as well as <hi>direct</hi> you in this <hi>dreadful day</hi> of the <hi>Lords</hi> controverſie for <hi>Sion:</hi> They concern you <hi>(my Lord)</hi> more then <hi>Caeſars</hi> Paper did him. Now that they may not prove a <hi>Hand Writing</hi> againſt you (and a <hi>Cup of trembling</hi> put into your hands) they are ſtrengthned with a <hi>Divine generoſity,</hi> and ſhall ſtruggle with you in the <hi>Faith, Tears,</hi> and <hi>Prayers</hi> of many, who pray and mourn for you, and amongſt other,</p>
+            <closer>
+               <signed>Your (afflicted) faithful Servant, for the Intereſt of our Lord Ieſus,
+<hi>JOHN ROGERS.</hi>
+               </signed>
+               <dateline>
+                  <hi>From my Study,</hi> 
+                  <date>the 21 <hi>day of</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Tebeth, or the Tenth Month.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
